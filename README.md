@@ -214,7 +214,7 @@ optional arguments:
                         Directory to save the logging info
   --quant-type {i2_s,tl1}, -q {i2_s,tl1}
                         Quantization type
-  --quant-embd          Quantize the embeddings to f16
+  --quant-embd          Quantize the embeddings to q6_k
   --use-pretuned, -p    Use the pretuned kernel parameters
 </pre>
 ## Usage
